@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/VirtualArtGallery/static/css/main.254bb7e7.css",
+    "main.js": "/VirtualArtGallery/static/js/main.c2af1905.js",
+    "static/js/592.73b77d2f.chunk.js": "/VirtualArtGallery/static/js/592.73b77d2f.chunk.js",
+    "static/media/pandaart.png": "/VirtualArtGallery/static/media/pandaart.2ab16f17dfe14cd1b338.png",
+    "static/media/earth1.jpg": "/VirtualArtGallery/static/media/earth1.46270e3acad4577de45a.jpg",
+    "static/media/about.jpg": "/VirtualArtGallery/static/media/about.db1d50a79e75f1193b1f.jpg",
+    "static/media/instagram.jpg": "/VirtualArtGallery/static/media/instagram.387a7ea0071cad8628eb.jpg",
+    "index.html": "/VirtualArtGallery/index.html",
+    "main.254bb7e7.css.map": "/VirtualArtGallery/static/css/main.254bb7e7.css.map",
+    "main.c2af1905.js.map": "/VirtualArtGallery/static/js/main.c2af1905.js.map",
+    "592.73b77d2f.chunk.js.map": "/VirtualArtGallery/static/js/592.73b77d2f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.254bb7e7.css",
+    "static/js/main.c2af1905.js"
+  ]
+}
