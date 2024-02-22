@@ -1,0 +1,161 @@
+#ji
+{
+    background-color: #1d222874;
+    margin-top: -50px;
+    padding-bottom: 50px;
+}
+#shoph{
+    color: rgba(0, 0, 0, 0.578);
+    margin-top: 50px;
+    margin-left: 60px;
+    padding-top: 30px;
+}#payback{
+    background-color: aliceblue;
+    height: 400px;
+    width: 350px;
+    margin-left: 170px;
+     margin-top: 70px; 
+    border: 10px;
+    border-radius: 30px;
+    border-color: black;
+
+}
+#lab{
+    color: black;
+    size: 90px;
+    margin: 10px;
+}
+#payback1{
+    
+    background-color: aliceblue;
+    height: 400px;
+    width: 350px;
+    margin-left: 580px;
+    margin-top: -417px;
+    border: 10px;
+    border-radius: 30px;
+    border-color: black;
+
+}
+#payback2{
+    background-color: aliceblue;
+    height: 400px;
+    width: 350px;
+    margin-left: 990px;
+    margin-top: -420px;
+    border: 10px;
+    border-radius: 30px;
+    border-color: black;
+
+}
+#payamthead{
+    color: black;
+    padding-top: 30px;
+    margin-left: 30px;
+    padding-bottom: 10px;
+}
+#cardno{
+    margin-left: 30px;
+}
+#pinput{
+    border-radius: 10px;
+    padding-left: 25px;
+    height: 30px;
+    width: 220px;
+    margin-left: 30px;
+    margin-top: 20px;
+}
+#expiry{
+    margin-left: 30px;
+}
+#expiryi{
+    border-radius: 10px;
+    padding-left: 25px;
+    height: 30px;
+    width: 90px;
+    margin-top: 30px;
+    margin-left: -50px;
+}
+#cvv{
+    margin-left: 30px;
+}
+#cvvi{
+    border-radius: 10px;
+    padding-left: 25px;
+    height: 30px;
+    width: 90px;
+    margin-top: 30px;
+    margin-left:-60px;
+}
+#cancel{
+    height: 40px;
+    width: 90px;
+    border-radius: 20px;
+    margin-top: 40px;
+     margin-left: 20px; 
+     background-color: rgb(66, 66, 238);
+     color: aliceblue;
+}
+#makepayment{
+    height: 40px;
+    width: 130px;
+    border-radius: 20px;
+    margin-top: 20px;
+    margin-left: 30px; 
+    background-color: rgb(66, 66, 238);
+     color: aliceblue;
+}
+#cancel2{
+    height: 40px;
+    width: 90px;
+    border-radius: 20px;
+    margin-top: 15px;
+    margin-left: 20px;
+    background-color: rgb(66, 66, 238);
+     color: aliceblue;
+}
+#makepayment2{
+    height: 40px;
+    width: 130px;
+    border-radius: 20px;
+    margin-top: 15px;
+    margin-left: 30px; 
+    background-color: rgb(66, 66, 238);
+     color: aliceblue;
+}
+
+#cancel3{
+    height: 40px;
+    width: 90px;
+    border-radius: 20px;
+    margin-top: 40px;
+    margin-left: 20px;
+    background-color: rgb(66, 66, 238);
+     color: aliceblue;
+}
+#makepayment3{
+    height: 40px;
+    width: 130px;
+    border-radius: 20px;
+    margin-top: 40px;
+    margin-left: 30px; 
+    background-color: rgb(66, 66, 238);
+     color: aliceblue;
+}
+
+#pmethod{
+    padding-top: 35px;
+    font-size: large;
+}
+#cod
+{
+    width: 100%;
+    border-radius: 20px;
+    height: 40%;
+}
+#upi
+{
+    border-radius: 20px;
+    width:100%;
+    height: 40%;
+}

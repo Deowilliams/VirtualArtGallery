@@ -1,0 +1,302 @@
+/* #hole{
+    background-image: -webkit-image-set('https://media.istockphoto.com/id/1322376077/photo/abstract-white-studio-background-for-product-presentation-empty-room-with-shadows-of-window.jpg?b=1&s=612x612&w=0&k=20&c=ocB4cN3X-udri8foZPzHog-0lUO7IKPk_OAB3d9qv0o=');
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+    margin-top: -8px;
+    border-radius: 20px;
+}
+#body{
+    background-color: rgba(0, 0, 0, 0.216);
+    border-radius: 20px;
+    width: 1400px;
+    height: 400px;
+}
+#bottom{
+    padding-top: 140px;
+}
+#details{
+    padding-top: 30px;
+}
+#product{
+    color:royalblue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+} */
+.d1
+{
+    width: 100%;
+    height: 500px; 
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    position: relative;
+    transition: transform 0.3s ease;
+    cursor: pointer;
+    
+}
+.d1:hover{
+    transform:scale(1.05);
+}
+.d2b1
+{
+    width: 100%;
+    height: 70%;
+    object-fit: cover;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    background-image: url('https://upload.wikimedia.org/wikipedia/commons/7/7f/Gerhard_Richter%2C_Prague_(2017).jpg');
+    background-size: cover;
+}
+.det1{
+    font-size: 14px;
+    margin: 0;
+}
+.d2b2
+{
+    width: 100%;
+    height: 70%;
+    object-fit: cover;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    background-image: url('https://th.bing.com/th/id/OIP.2hf9043Cu69lHErxirFlRQHaHa?rs=1&pid=ImgDetMain');
+    background-size: cover;
+}
+.d2b3
+{
+    width: 100%;
+    height: 70%;
+    object-fit: cover;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    background-image: url('https://arch.umd.edu/sites/default/files/styles/optimized/public/2023-09/kern_susan_sq_0.jpg?itok=VRvN9Zwo');
+    background-size: cover;
+}
+.d2b4
+{
+    width: 100%;
+    height: 70%;
+    object-fit: cover;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    background-image: url('https://i.pinimg.com/originals/32/0d/0d/320d0dc1d6bc03e5291d132b2910b2fc.jpg');
+    background-size: cover;
+}
+.d3b1
+{
+    width: 100%;
+    height: 70%;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    background-image: url('https://img.freepik.com/premium-photo/poster-movie-moon-stars_895799-24075.jpg');
+    background-size: cover;
+}
+.d3b2
+{
+    width: 100%;
+    height: 70%;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    background-image: url('https://blog.breathingcolor.com/wp-content/uploads/2017/01/BC-digital-traditional-painting-COVER.jpg');
+    background-size: cover;
+}
+.d3b3
+{
+    width: 100%;
+    height: 70%;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    background-image: url('https://i.pinimg.com/originals/70/9f/6b/709f6b594e49adcb6dfa43ca1f14210e.jpg');
+    background-size: cover;
+}
+
+.d3b4
+{
+    width: 100%;
+    height: 70%;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    background-image: url('https://th.bing.com/th/id/OIP.5IlbfbjGlA4a172h8L3vFQHaJQ?rs=1&pid=ImgDetMain');
+    background-size: cover;
+}
+.d4b1
+{
+    width: 100%;
+    height: 70%;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    background-image: url('https://paintable.cc/wp-content/uploads/2017/06/Digital-Painting-Inspiration-7.jpg');
+    background-size: cover;
+}
+.d4b2
+{
+    width: 100%;
+    height: 70%;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    background-image: url('https://th.bing.com/th/id/R.9f5a548660dbdd3f9be6070925783b27?rik=3dAreE7rA9BDYA&riu=http%3a%2f%2fstatic.boredpanda.com%2fblog%2fwp-content%2fuuuploads%2fcolorful-paintings-leonid-afremov%2fcolorful-paintings-leonid-afremov-21.jpg&ehk=KMatums1hoC673acdwT0d50QZkZrGBoa3L%2fJVLDOtGk%3d&risl=&pid=ImgRaw&r=0');
+    background-size: cover;
+}
+.d4b3
+{
+    width: 100%;
+    height: 70%;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    background-image: url('https://th.bing.com/th/id/OIP.2d_hM6CSEeG6RCNxFQwHpAHaHJ?w=590&h=569&rs=1&pid=ImgDetMain');
+    background-size: cover;
+}
+.d4b4
+{
+    width: 100%;
+    height: 70%;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    background-image: url('https://i.etsystatic.com/5711041/r/il/c46b11/1830230378/il_fullxfull.1830230378_hxh1.jpg');
+    background-size: cover;
+}
+ #top{
+    margin-top: -9px;
+    height: 600px;
+    background-size: cover;
+    background-color: #121519;
+    /* background-image: url('https://images.pexels.com/photos/36717/amazing-animal-beautiful-beautifull.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'); */
+
+}
+#f1{
+    background-color:  #1d2228; 
+    background-size: cover;
+    height: 800px;
+    box-shadow:rgb(228, 206, 214) 4px 4px 4px 4px;
+    text-align: left; 
+    
+  
+}
+#f2
+{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr); 
+    gap: 18px;
+    padding: 20px;
+    background-color: #1d2228 ; 
+}
+#f3
+{
+    height: 1500px;
+    background-color:  #1d2228; 
+}
+.f4
+{
+    display: inline-block;
+}
+#img{
+    width: 300px;
+    height: 400px;
+}
+#homeh1{
+    
+    text-align:left;
+    color:#E1E2E2;
+    font-size: 80px;
+    margin-left: 200px;
+}
+#homeh2{
+    text-align:left;
+    color:#E1E2E2;
+    font-size:x-large;
+    font-family: 'Courier New', Courier, monospace;
+    margin-left: 200px;
+    margin-top: 100px;
+}
+#homeh3{
+    font-size:x-large;
+    color:#E1E2E2;
+
+}
+#homeh4{
+    font-size:xx-large;
+    color:#E1E2E2;
+
+}
+
+.b
+{
+    height: 40px;
+    width: 70px;
+    margin:3px;
+   
+    background-color: antiquewhite;
+    border-radius: 15px;
+}
+.mb{
+    display: inline-block;
+}
+#lk{
+    font-size: medium;
+    color:#E1E2E2 ;
+}
+#search{
+    width: 950px;
+    height:40px;
+    background-color: rgba(255, 255, 255, 0.755);
+    border-radius: 10px;
+    margin-left: 150px;
+}
+.sr{
+    display: inline-block;
+    margin: 10px;
+}
+.gs
+{
+    margin-left: 200px;
+    width: 200px;
+    height: 50px;
+    background-color: blue;
+    border-radius: 15px;
+    font-size: 15px;
+    color: whitesmoke;
+    transition: transform 0.3s ease;
+}
+.gs:hover{
+    background-color: rgba(0, 0, 255, 0.729);
+    transform:scale(1.05);
+}
+.foot{
+    width: 400px;
+    height: 500px;
+    margin: 20px;
+    padding: 20px;
+    display: inline-block;
+}
+#foot1{
+    height:500px;
+    width:2000px;
+}
+#Nav
+{
+    margin-left: 1200px;
+}
+.b:hover{
+    background-color: #ce6a6a;
+}
+.divi
+{
+    display:inline-block;
+    height: 500px;
+    width: 600px;
+    margin:10px;
+}
+.dl{
+    height: 700px;
+    width:600px;
+    background-color: #a43232;
+}
+#co1
+{
+    background-color: #E1E2E2;
+}
+#co2
+{
+    background-color:#ce6a6a;
+}

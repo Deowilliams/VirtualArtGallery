@@ -1,0 +1,92 @@
+#loghead{
+    margin-top: -8px;
+    background-color: #E1E2E2;
+    padding-bottom: 5px;
+}
+#logbody{
+    border: 10px;
+    box-shadow: 0px 0px 20px rgb(253, 136, 156);
+    animation-name: loginBox;
+    animation-iteration-count: infinite;
+    animation-duration: 4s;
+    transition: 0.4s;
+    border-radius: 20px;
+    height: 440px;
+    width: 310px;
+    border-width: 10px;
+    background-color:rgba(238, 207, 34, 0);
+}
+@keyframes loginBox {
+    0%{box-shadow: 0px 0px 20px red;}
+    25%{box-shadow: 0px 0px 20px blue;}
+    50%{box-shadow: 0px 0px 20px greenyellow;}
+    75%{box-shadow: 0px 0px 20px yellow;}
+    100%{box-shadow: 0px 0px 20px white;}
+}
+#log{
+    padding-top: 20px;
+    color:rgb(0, 0, 0);
+}
+#email{
+    color: rgb(247, 247, 247);
+}
+#password{
+    color: rgb(249, 249, 249);
+}
+
+
+#logbutton{
+    color: rgb(253, 250, 250);
+    border-radius: 10px;
+    height: 40px;
+    width: 120px;
+    background-color: #1D2228;
+    cursor: pointer;
+    transition: background-color 0.3 ease;
+    margin-top: 10px;
+
+}
+#logbutton:hover{
+    background-color: #fafafbaf;
+    color: black;
+}
+#fpassword{
+    color: rgb(14, 14, 15);
+    font-size: small;
+    margin-left: 79px;
+}
+#forgethole{
+    border: 10px;
+    border-color: black;
+    height: 460px;
+    width: 390px;
+    background-color:#E1E2E2;
+    border-radius: 20px;
+    margin-top: 110px;
+    box-shadow: 0px 0px 20px rgb(27, 19, 20);
+
+}
+#error{
+    padding-top: 70px;
+    
+}
+#forgetp{
+    margin-top: 40px;
+}
+#forgetbutton{
+    margin-top: 25px;
+    color: white;
+    height: 30px;
+    width: 120px;
+    background-color:#1D2228;
+    border-radius: 30px;
+}
+#forgetbutton:hover{
+    background-color: #fafafbaf;
+    color: black;
+}
+#fhole{
+    background-color: #E1E2E2;
+    padding-top:10px;
+    padding-bottom: 40px;
+}
