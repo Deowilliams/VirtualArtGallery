@@ -31,11 +31,13 @@ const Layout = () => {
   );
 };
 const App = () => {
+  
   return (
     <BrowserRouter>
     <Routes>
       <Route path="/" element={<Layout/>}>
-        <Route index element={<Home/>}/>
+        <Route index element={<VirtualArtGallery/>}/>
+        <Route path="home" element={<Home/>}/>
         <Route path="login" element={<Login/>}/>
         <Route path="register" element={<Register/>}/>
         <Route path="about" element={<About/>}/>
